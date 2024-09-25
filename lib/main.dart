@@ -112,6 +112,10 @@ class _MyHomePageState extends State<MyHomePage> {
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            ElevatedButton(
+              onPressed: () {},
+              child: const Text('Play with Your Pet'),
+            ),
           ],
         ),
       ),
