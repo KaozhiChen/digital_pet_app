@@ -116,6 +116,10 @@ class _MyHomePageState extends State<MyHomePage> {
               onPressed: () {},
               child: const Text('Play with Your Pet'),
             ),
+            ElevatedButton(
+              onPressed: () {},
+              child: const Text('Happiness'),
+            ),
           ],
         ),
       ),
